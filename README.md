@@ -18,14 +18,7 @@ Validated on 1,427 images (reflective_jacket and safety_helmet classes).
 ![Detection 1](Project_Results/IMAGE_NAME_1.png)
 
 
-
-
-![Detection 2](Project_Results/IMAGE_NAME_2.png)
-
-
-
-Demo video: Project_Results/VIDEO_NAME.mp4
-
+Demo video: [Watch here](https://github.com/BhSarma/PPE-Detection-Yolov8-Project/raw/main/Project_Results/Video_Result_small.mp4)
 ## Tech Stack
 Python, YOLOv8 (Ultralytics), OpenCV, Streamlit
 
