@@ -15,7 +15,7 @@ Validated on 1,427 images (reflective_jacket and safety_helmet classes).
 ## Demo
 
 
-![Detection Results](Project_Results/Image_Resuts.png)
+![Detection Results](https://github.com/BhSarma/PPE-Detection-Yolov8-Project/raw/main/Project_Results/Image_Results.png)
 
 
 Demo video: [Watch here](https://github.com/BhSarma/PPE-Detection-Yolov8-Project/raw/main/Project_Results/Video_Result_small.mp4)
