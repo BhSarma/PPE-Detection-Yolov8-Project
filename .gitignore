@@ -1,0 +1,16 @@
+vest_helmet/
+mlruns/
+.ipynb_checkpoints/
+_pycache_/
+web_output.mp4
+
+runs/*
+!runs/ppe_final/
+runs/ppe_final/*
+!runs/ppe_final/weights/
+runs/ppe_final/weights/*
+!runs/ppe_final/weights/best.pt
+!runs/ppe_final/results.png
+!runs/ppe_final/confusion_matrix.png
+Project_Results/Video_Result.mp4
+ppe_sample_video_test_2.mp4
